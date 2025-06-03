@@ -1,0 +1,12 @@
+Monster_B0005_close.png
+size:1024,540
+filter:Linear,Linear
+scale:0.24
+Asnake_a
+bounds:2,272,891,266
+Asnake_b
+bounds:2,102,194,687
+rotate:270
+Asnake_c
+bounds:623,2,399,279
+rotate:180

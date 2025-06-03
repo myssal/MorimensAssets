@@ -1,0 +1,14 @@
+Monster_S2B0002_BT_Star.png
+size:1885,784
+filter:Linear,Linear
+scale:0.5
+star_body
+bounds:2,2,1648,780
+offsets:0,0,1648,818
+star_neck_a
+bounds:2,681,39,40
+star_neck_b
+bounds:2,721,59,61
+offsets:0,0,60,61
+star_neck_c
+bounds:1604,191,279,489

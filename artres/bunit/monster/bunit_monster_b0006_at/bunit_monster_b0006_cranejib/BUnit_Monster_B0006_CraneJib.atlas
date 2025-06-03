@@ -1,0 +1,17 @@
+BUnit_Monster_B0006_CraneJib.png
+size:839,115
+filter:Linear,Linear
+scale:0.38
+XZ_Bweigan_a
+bounds:4,55,831,56
+XZ_Bweigan_b
+bounds:47,38,784,20
+offsets:0,9,784,33
+XZ_Bweigan_c
+bounds:4,9,533,36
+rotate:180
+XZ_Bweigan_d
+bounds:518,4,259,42
+XZ_Bweigan_hook
+bounds:4,85,26,145
+rotate:90

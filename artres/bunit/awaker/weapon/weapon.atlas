@@ -1,0 +1,10 @@
+weapon.png
+size:276,554
+filter:Linear,Linear
+scale:0.2
+weapons_a
+bounds:84,116,132,299
+weapons_b
+bounds:2,2,80,550
+weapons_c
+bounds:84,294,190,258

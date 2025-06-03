@@ -1,0 +1,17 @@
+Platform_mucus_Back.png
+size:735,156
+filter:Linear,Linear
+scale:0.4
+Platform_mucus_3
+bounds:396,74,80,276
+rotate:270
+Platform_mucus_5
+bounds:653,15,96,80
+offsets:2,0,98,80
+rotate:270
+Platform_mucus_7
+bounds:531,15,73,120
+offsets:3,0,76,120
+rotate:90
+Platform_mucus_8
+bounds:2,2,528,152

@@ -1,0 +1,10 @@
+B0009_SM_CloseShot.png
+size:822,490
+filter:Linear,Linear
+BJ1_front_eyeball
+bounds:2,2,491,486
+offsets:3,2,501,494
+BJ1_front_eyeball_air
+bounds:493,10,463,327
+offsets:12,0,487,341
+rotate:90

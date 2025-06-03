@@ -1,0 +1,15 @@
+BUnit_Monster_B0009_AT.png
+size:888,741
+filter:Linear,Linear
+scale:0.8
+1st_Meye_eyeball
+bounds:2,254,486,485
+offsets:0,0,486,486
+1st_Meye_pupil
+bounds:595,2,291,274
+1st_middle_eyelash1
+bounds:482,224,515,301
+offsets:0,0,515,303
+rotate:270
+1st_middle_eyelash2
+bounds:109,4,512,258

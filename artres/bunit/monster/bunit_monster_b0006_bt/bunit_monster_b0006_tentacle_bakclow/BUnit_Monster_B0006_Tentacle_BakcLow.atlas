@@ -1,0 +1,15 @@
+BUnit_Monster_B0006_Tentacle_BakcLow.png
+size:138,173
+filter:Linear,Linear
+scale:0.38
+XZ_Ftentacle
+bounds:4,79,120,90
+offsets:0,169,121,259
+XZ_Ftentacle2
+bounds:4,4,37,59
+rotate:270
+XZ_Gtantacle_a
+bounds:4,25,130,57
+rotate:180
+XZ_Htantecle_b
+bounds:4,151,57,18
