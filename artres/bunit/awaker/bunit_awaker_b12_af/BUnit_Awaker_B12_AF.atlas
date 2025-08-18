@@ -106,7 +106,7 @@ offsets:0,0,81,39
 base_hair_f
 bounds:2,52,87,87
 base_hair_g
-bounds:155,369,67,19
+bounds:149,369,67,19
 rotate:90
 base_hand_La
 bounds:138,634,74,18
@@ -117,7 +117,7 @@ base_hand_R
 bounds:341,194,50,30
 rotate:90
 base_head
-bounds:87,355,66,72
+bounds:85,352,66,72
 base_hip
 bounds:85,39,96,60
 base_leg_lower_La
