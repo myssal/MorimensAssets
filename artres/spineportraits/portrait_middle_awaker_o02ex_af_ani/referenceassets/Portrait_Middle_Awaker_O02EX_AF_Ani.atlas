@@ -1,0 +1,268 @@
+Portrait_Middle_Awaker_O02EX_AF_Ani.png
+	size: 2048, 1946
+	filter: Linear, Linear
+	scale: 0.5
+AAerhuan_1
+	bounds: 1825, 307, 68, 221
+	rotate: 90
+AAerhuan_2
+	bounds: 1531, 1281, 45, 169
+AAerhuan_3
+	bounds: 391, 1295, 72, 191
+	rotate: 90
+AAerhuan_4
+	bounds: 514, 1514, 165, 152
+	rotate: 90
+AAerhuan_5
+	bounds: 386, 1823, 121, 367
+	rotate: 90
+AAerhuan_6
+	bounds: 1792, 159, 254, 135
+AAerhuan_7
+	bounds: 77, 1281, 73, 136
+	rotate: 90
+AAfa_12
+	bounds: 423, 201, 280, 186
+	rotate: 180
+AAfa_13
+	bounds: 2, 905, 194, 85
+AAfa_14
+	bounds: 935, 1394, 161, 85
+AAfa_15
+	bounds: 98, 202, 147, 67
+AAfa_16
+	bounds: 427, 1780, 114, 58
+AAfa_17
+	bounds: 814, 1728, 43, 88
+	offsets: 5, 0, 48, 88
+AAfasi_1
+	bounds: 414, 981, 80, 265
+	offsets: 0, 0, 104, 265
+	rotate: 90
+AAfasi_10
+	bounds: 805, 1414, 83, 65
+AAfasi_11
+	bounds: 589, 945, 155, 52
+AAfasi_2
+	bounds: 699, 120, 141, 320
+	rotate: 90
+AAfasi_3
+	bounds: 1810, 526, 184, 85
+AAfasi_4
+	bounds: 376, 363, 148, 84
+AAfasi_5
+	bounds: 1769, 660, 277, 411
+AAfasi_6
+	bounds: 2, 1531, 70, 249
+AAfasi_7
+	bounds: 1041, 431, 144, 55
+AAfasi_9
+	bounds: 1722, 47, 277, 130
+	rotate: 180
+AAlianyinying
+	bounds: 269, 1609, 54, 91
+AAmeimao_1
+	bounds: 1885, 1617, 90, 16
+AAmeimao_2
+	bounds: 1696, 1931, 46, 13
+AAsha_1
+	bounds: 1135, 328, 173, 475
+	rotate: 270
+AAsha_1_2
+	bounds: 634, 363, 173, 475
+	rotate: 270
+AAsha_2
+	bounds: 848, 613, 230, 462
+	offsets: 0, 0, 243, 462
+	rotate: 270
+AAsha_3
+	bounds: 279, 543, 102, 130
+	rotate: 90
+AAshangyan_1
+	bounds: 644, 1823, 101, 24
+AAshangyanlian_2
+	bounds: 350, 1922, 79, 22
+AAtou
+	bounds: 1749, 1287, 291, 341
+AAtouguan
+	bounds: 1892, 1635, 194, 154
+	rotate: 270
+AAxcs_1
+	bounds: 328, 1290, 48, 96
+AAxcs_2
+	bounds: 31, 1469, 28, 61
+AAxiayan_1
+	bounds: 2, 1804, 82, 33
+AAxiayanlian_2
+	bounds: 2006, 1891, 36, 53
+AAyanbai_1
+	bounds: 1962, 1833, 84, 38
+AAyanbai_2
+	bounds: 1758, 1911, 45, 33
+AAyanqiu_1
+	bounds: 1254, 1534, 48, 41
+AAyanqiu_2
+	bounds: 1470, 1913, 35, 31
+AAyanying_1
+	bounds: 1354, 1900, 114, 44
+AAyanying_2
+	bounds: 1984, 1589, 54, 44
+AAzhulian_1
+	bounds: 2, 13, 88, 394
+	rotate: 90
+AAzhulian_2
+	bounds: 182, 1252, 183, 34
+AAzuiba
+	bounds: 543, 1799, 41, 23
+bd_1
+	bounds: 1599, 1569, 59, 130
+	rotate: 90
+bd_2
+	bounds: 1275, 1577, 43, 71
+biaodai_1
+	bounds: 76, 260, 33, 255
+	rotate: 90
+biaodai_2
+	bounds: 837, 1839, 34, 105
+chu_1
+	bounds: 529, 1480, 748, 464
+	offsets: 154, 0, 902, 464
+	rotate: 180
+chu_2
+	bounds: 1111, 1259, 636, 373
+	rotate: 180
+chu_3
+	bounds: 2, 986, 736, 305
+	rotate: 180
+chu_4
+	bounds: 2, 1354, 802, 590
+ding
+	bounds: 988, 69, 548, 262
+	rotate: 180
+gan_2
+	bounds: 2, 151, 49, 608
+	offsets: 1, 7, 52, 615
+	rotate: 90
+gan_3
+	bounds: 2, 103, 46, 645
+	offsets: 1, 0, 48, 646
+	rotate: 90
+gebo_1_2
+	bounds: 215, 1270, 125, 326
+	rotate: 180
+gebo_2
+	bounds: 228, 436, 527, 182
+guge
+	bounds: 1304, 776, 214, 426
+	rotate: 90
+housha_3
+	bounds: 1903, 1077, 132, 125
+	rotate: 90
+huawen_1
+	bounds: 326, 566, 207, 474
+	rotate: 90
+huawen_2
+	bounds: 1232, 976, 686, 297
+	offsets: 60, 0, 746, 297
+	rotate: 180
+huawen_3
+	bounds: 58, 775, 677, 231
+	rotate: 180
+huawen_4
+	bounds: 745, 263, 101, 514
+	rotate: 90
+kou_1
+	bounds: 1109, 1919, 25, 25
+kou_2
+	bounds: 492, 1838, 23, 23
+piaodai_3
+	bounds: 1731, 779, 36, 182
+qunzi_2
+	bounds: 2, 536, 323, 294
+	rotate: 180
+qunzi_3
+	bounds: 2, 362, 172, 182
+	rotate: 270
+qunzi_4
+	bounds: 1368, 151, 236, 184
+qunzi_5
+	bounds: 1076, 8, 133, 162
+	rotate: 270
+sanghou
+	bounds: 522, 1102, 765, 292
+	offsets: 0, 15, 807, 307
+	rotate: 180
+sha_8
+	bounds: 2, 1838, 166, 106
+shabu_1
+	bounds: 2, 263, 196, 420
+	rotate: 270
+shabu_3
+	bounds: 1185, 1629, 780, 315
+shabu_4
+	bounds: 1204, 33, 488, 116
+shangbi_1
+	bounds: 1563, 374, 483, 117
+shangbi_2
+	bounds: 1712, 1211, 334, 86
+shengti1
+	bounds: 703, 815, 599, 303
+	offsets: 0, 0, 599, 345
+shou_1
+	bounds: 1137, 1887, 218, 57
+	offsets: 0, 60, 224, 117
+shou_2
+	bounds: 754, 1793, 81, 151
+xiongbu1
+	bounds: 1270, 1644, 145, 116
+xiongbu2
+	bounds: 631, 2, 135, 132
+xuedi_1
+	bounds: 42, 1648, 18, 65
+	offsets: 2, 1, 21, 67
+xuedi_2
+	bounds: 1829, 1862, 175, 82
+youjiao
+	bounds: 1372, 481, 193, 436
+	offsets: 9, 0, 202, 436
+	rotate: 270
+youtui
+	bounds: 1312, 590, 712, 184
+	rotate: 180
+zhi_1
+	bounds: 1280, 1920, 68, 24
+zhi_10
+	bounds: 872, 1921, 39, 23
+zhi_11
+	bounds: 66, 1720, 21, 45
+zhi_12
+	bounds: 476, 1744, 73, 39
+zhi_13
+	bounds: 890, 1436, 66, 43
+zhi_18
+	bounds: 1243, 1727, 25, 69
+	offsets: 1, 0, 26, 69
+zhi_2
+	bounds: 325, 1605, 20, 69
+zhi_3
+	bounds: 885, 1677, 23, 60
+zhi_4
+	bounds: 854, 1686, 29, 70
+zhi_5
+	bounds: 1719, 1492, 28, 75
+zhi_6
+	bounds: 1416, 1650, 22, 71
+zhi_7
+	bounds: 2, 1510, 28, 73
+zhi_8
+	bounds: 568, 1462, 165, 50
+zhi_9
+	bounds: 2, 1780, 51, 22
+zuojiao
+	bounds: 1559, 91, 291, 298
+	offsets: 0, 0, 291, 387
+	rotate: 270
+zuotui
+	bounds: 740, 487, 173, 604
+	offsets: 0, 0, 186, 604
+	rotate: 270
