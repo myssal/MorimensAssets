@@ -1,0 +1,13 @@
+Monster_S2B0005_body_leg.png
+size:171,802
+filter:Linear,Linear
+scale:0.38
+base1_L_leg_a1
+bounds:2,511,289,44
+rotate:90
+base1_L_leg_b1
+bounds:82,6,573,87
+offsets:0,0,573,89
+rotate:270
+base1_L_leg_c1
+bounds:2,2,132,798

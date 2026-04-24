@@ -1,0 +1,16 @@
+Monster_S2B0005_base2_halo.png
+size:1364,1277
+filter:Linear,Linear
+scale:0.38
+base2_halo_a
+bounds:2,191,565,1084
+base2_halo_b
+bounds:562,243,478,1032
+offsets:0,0,478,1044
+base2_halo_c
+bounds:2,2,294,1078
+offsets:1,0,295,1078
+rotate:90
+base2_halo_d
+bounds:1015,125,1150,347
+rotate:270
