@@ -1,0 +1,14 @@
+Monster_S2B0006_ground1.png
+size:322,523
+filter:Linear,Linear
+scale:0.2
+base2_ground_body
+bounds:2,60,318,461
+base2_ground_hand1
+bounds:2,2,192,103
+offsets:1,1,193,104
+base2_ground_hand2
+bounds:2,99,85,60
+rotate:90
+base2_ground_hand4
+bounds:191,8,58,30
